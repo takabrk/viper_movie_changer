@@ -15,6 +15,6 @@ update:November 18,2022
 [主な機能]
 ・動画ダウンロード機能
 ・VAAPI対応ffmpegを使ったVAAPIハードウェアエンコード機能
-・ffmpegによる動画切り抜き機能
+・ffmpegを使った動画からの連番画像生成
 
 GUIで操作する事が可能です。
