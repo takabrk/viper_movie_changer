@@ -3,10 +3,6 @@ Web site URL : http://vsrx.work
 Created by takamitsu hamada
 update:Norbember 18,2022
 
-詳しいリファレンスは、以下で公開しています。
-
-http://vsrx.work/viperdocs/index.html
-
 このアプリケーションを使うには、Pythonとffmpegをインストールする必要があります。
 
 [動作環境]
