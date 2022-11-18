@@ -3,7 +3,7 @@ Web site URL : http://vsrx.work
 Created by takamitsu hamada
 update:November 18,2022
 
-このアプリケーションを使うには、Pythonとffmpegをインストールする必要があります。
+このアプリケーションを使うには、Pythonとffmpegとyt-dlpをインストールする必要があります。
 
 [動作環境]
 ・Ubuntu 22.04 LTS
@@ -11,6 +11,8 @@ update:November 18,2022
 ・GTK+3
 ・libglade
 ・xfce4-terminal
+・ffmpeg
+・yt-dlp
 
 [主な機能]
 ・動画ダウンロード機能
