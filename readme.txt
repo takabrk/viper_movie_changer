@@ -1,7 +1,7 @@
 Linux application "Viper Movie Changer"
 Web site URL : http://vsrx.work
 Created by takamitsu hamada
-update:Norbember 18,2022
+update:November 18,2022
 
 このアプリケーションを使うには、Pythonとffmpegをインストールする必要があります。
 
